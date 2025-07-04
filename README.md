@@ -9,7 +9,7 @@ A complete fine-tuning pipeline for binary sentiment classification using TinyLl
 
 This project demonstrates end-to-end fine-tuning of a large language model for sentiment analysis. Using **LoRA (Low-Rank Adaptation)** for efficient training, we adapt TinyLlama-1.1B to classify movie reviews as positive or negative.
 
-> **Key Achievement:** 🏆 89% accuracy on IMDB sentiment classification
+> **Key Achievement :** 🏆 89% accuracy on IMDB sentiment classification
 
 ---
 
