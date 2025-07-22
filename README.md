@@ -181,16 +181,6 @@ predictions = [predict_sentiment(review, model, tokenizer) for review in reviews
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Try:
-- New base models or LoRA configs
-- Improved token evaluation techniques
-- Alternative sampling strategies
-- More visualizations or metrics
-
----
-
 ## 📚 References
 
 - [TinyLlama on GitHub](https://github.com/jzhang38/TinyLlama)
