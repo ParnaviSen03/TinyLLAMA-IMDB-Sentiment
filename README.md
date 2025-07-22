@@ -189,12 +189,6 @@ predictions = [predict_sentiment(review, model, tokenizer) for review in reviews
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 **Built with:** 🤗 Transformers • 🔥 PyTorch • 📊 scikit-learn • 🎨 Matplotlib • 🐍 Python
 
 *For questions or issues, please open an issue in the repository.*
