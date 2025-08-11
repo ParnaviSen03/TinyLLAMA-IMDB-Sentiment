@@ -1,5 +1,5 @@
 
-# 🎬 IMDB Sentiment Classification with Fine-tuned LLaMA
+# 🎬 IMDB Sentiment Classification with LoRA Fine-tuned LLaMA
 
 A complete fine-tuning pipeline for binary sentiment classification using TinyLlama-1.1B on the IMDB Movie Reviews dataset.
 
